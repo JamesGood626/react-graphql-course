@@ -29,8 +29,8 @@ const CREATE_ITEM_MUTATION = gql`
 const initialState = {
   title: "Lovely Title",
   description: "It smells like roses",
-  image: "butthislookslikebooboo.jpg",
-  largeImage: "andthisdoestoo.jpg",
+  image: "",
+  largeImage: "",
   price: 10
 };
 

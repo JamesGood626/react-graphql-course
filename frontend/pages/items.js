@@ -1,1 +1,3 @@
-// import Home from "./home";
+import Items from "./index";
+
+export default Items;
