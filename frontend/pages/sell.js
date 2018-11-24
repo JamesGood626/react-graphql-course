@@ -1,9 +1,10 @@
 import styled from "styled-components";
+import CreateItem from "../components/CreateItem";
 
 const Sell = () => {
   return (
     <div>
-      <h3>Sell</h3>
+      <CreateItem />
     </div>
   );
 };
